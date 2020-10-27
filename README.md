@@ -7,7 +7,7 @@ This is a chess app built with SwiftUI and ComposableArchitecture [https://githu
 Technologies: ComposableArchitecture, Combine, SwiftUI, GameKit
 Platforms: iOS
 
-![iphone screen shot](iPhone-ChessApp.png)
+![iphone screen shot](screenshots/iPhone-ChessApp.png)
 
 ## iSymmetry
 A surface pattern painting app. Brush strokes are transformed into infinite kaleidoscopic designs. Supports all  possible ways to create a  repeating pattern - the 17 “Wallpaper Groups" - and includes infinite scroll.
