@@ -16,11 +16,16 @@ A surface pattern painting app. Brush strokes are transformed into infinite kale
 Technologies: Objective C, CoreGraphics
 Platforms: iOS,iPad
 
+![iphone screen shot](screenshots/iPhone-iSymmetry-1.png)
+![iphone screen shot](screenshots/iPhone-iSymmetry-2.png)
+
 ## PaintLab
 An iPad painting app for creative experiments. This is a full-featured art app with 69 different brushes, 39 filters with custom UI, multiple layers with blend modes, 3d transforms and innovative colour     selection tools. It’s powered by a high performance Open GL paint engine which creates unique brush effects (e.g. natural charcoal, fluid paint) at 60 fps. Integrates With Apple Pencil and third-party  bluetooth styluses.
 
 Technologies: Swift, Objective C, GLSL,  OpenGl, CoreData
 Platforms: iPad
+
+![iphone screen shot](screenshots/iPad-Paintlab.png)
 
 ## Koobook
 Developed and published  vocabulary game to help kids learn English, with 12 animated word puzzles. 
@@ -29,13 +34,20 @@ Developed and published  vocabulary game to help kids learn English, with 12 ani
 
 Technologies: Swift, AVFoundation, CoreAnimation
 
+![iphone screen shot](screenshots/iPad-Koobook.png)
+
 ## ARPaint
 Augmented Reality 3D painting app
 
 Technologies: Swift, ARKit, Metal, RxSwift
 
+![iphone screen shot](screenshots/iPhone-ARPaint-1.png)
+![iphone screen shot](screenshots/iPhone-ARPaint-2.png)
+
 ## ARRay
 Augmented Reality demo app showing a liquid metal blob rendered inn the environment using ray-marching technique with signed difference functions.
   
 Technologies: Swift, ARKit, Metal
+
+![iphone screen shot](screenshots/iPhone-ARRay.png)
 
